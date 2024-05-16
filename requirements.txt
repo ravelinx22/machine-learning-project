@@ -1,2 +1,5 @@
 jupyterlab
 notebook
+pandas
+ydata-profiling
+ipywidgets
