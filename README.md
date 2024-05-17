@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1---aMQrVKhsNvOWSvfveOICcrp21xUSa/view?usp=shari
 Gradio repo
 
 ```
-
+https://github.com/ravelinx22/machine-learning-project-gradio
 ```
 
 Gradio deploy
